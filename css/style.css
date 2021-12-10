@@ -11,6 +11,10 @@ header{
     margin: 0;
     justify-content: center;
 }
+#imgBV{
+    margin: 2rem;
+
+}
 section{
     background: white;
     color: black;
